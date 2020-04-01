@@ -6,5 +6,5 @@ The SQL file contained in this repository was produced using the PostrgeSQL comm
 
 ## Helpful links:
 * [PostgreSQL](https://www.postgresql.org/)
-* [psql command documentation] (https://www.postgresql.org/docs/10/app-psql.html)
-* [PgAdmin - My preferred DBMS] (https://www.pgadmin.org/)
+* [psql command documentation](https://www.postgresql.org/docs/10/app-psql.html)
+* [PgAdmin - My preferred DBMS](https://www.pgadmin.org/)
